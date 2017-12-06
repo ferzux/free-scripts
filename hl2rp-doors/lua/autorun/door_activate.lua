@@ -1,5 +1,5 @@
 --[[
-    Sim
+    Simple Combine Door Activator
 
     door_usetype
     2 variants: darkrp or simple, 
