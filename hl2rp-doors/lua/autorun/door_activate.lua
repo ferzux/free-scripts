@@ -6,7 +6,7 @@
     darkrp - only cps can activate combine doors
     simple - all people can activate combine doors
 ]]
-local door_usetype = "test"
+local door_usetype = "simple"
 
 
 --
